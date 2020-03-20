@@ -1,2 +1,2 @@
 # Algorithm practice problems 
-###solved by Rute Fernandes 
+#### Solved by Rute Fernandes 
