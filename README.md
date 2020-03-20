@@ -1,1 +1,1 @@
-# algorithm-practice-problems
+# All algorithm practice problems solved by Rute Fernandes 
